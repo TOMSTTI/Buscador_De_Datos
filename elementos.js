@@ -1,5 +1,5 @@
 [
-    { "id": 1, "nombre": "Tacos", "descripcion": "Tortilla de maíz rellena de carne, salsa y vegetales.", "categoria": "Plato Principal" },
+    { "id": 1, "nombre": "🌮Tacos", "descripcion": "Tortilla de maíz rellena de carne, salsa y vegetales.", "categoria": "Plato Principal" },
     { "id": 2, "nombre": "Sushi", "descripcion": "Arroz adobado acompañado de pescado crudo o mariscos.", "categoria": "Plato Principal" },
     { "id": 3, "nombre": "Pizza Margherita", "descripcion": "Pizza con salsa de tomate, queso mozzarella y albahaca.", "categoria": "Plato Principal" },
     { "id": 4, "nombre": "Paella", "descripcion": "Arroz cocido con mariscos, pollo, conejo y verduras.", "categoria": "Plato Principal" },

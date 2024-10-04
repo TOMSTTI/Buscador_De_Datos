@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
         .catch(error => {
             console.error('Error cargando los elementos:', error);
             
-            // Ocultar el spinner en caso de error
+            
             spinner.style.display = 'none';
         });
 
